@@ -12,15 +12,6 @@ Install the necessary libraries using pip:
 ```bash
 pip install biopython matplotlib
 ```
-## Project structure 
-
-gc_content_tool/
-├── gc_content.py      # Script for calculating GC content
-├── visualization.py   # Script for visualizing GC content
-├── main.py            # Main script to run the tool
-├── README.md          # Project description and usage instructions
-├── requirements.txt   # List of required Python libraries
-└── test_data/         # Directory to store sample FASTA/FASTQ files for testing
 
 ## Usage 
 - Clone or download the project from GitHub.
